@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm Satyam Anmol
 
-<!--
-**anmol-programmer/anmol-programmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student | 🐍 Python Developer | 🌐 Networking & CCNA Learner  
 
-Here are some ideas to get you started:
+🚀 Passionate about Programming, Networking, and Cybersecurity  
+💡 Learning Python, c++, DSA, and Computer Networks  
+🎯 Goal: Become a Skilled Software & Network Engineer  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+- **Languages:** Python, C, C++, Java  
+- **Networking:** CCNA Basics, TCP/IP, OSI Model  
+- **Tools:** Git, GitHub, Linux, VS Code  
+
+## 📌 Current Focus
+- Advanced Python & Projects  
+- CCNA & Networking Labs  
+- DSA for Placements  
+
+## 📂 Featured Projects
+🔹 Python Calculator  
+🔹 Number System Programs  
+🔹 Networking Lab Notes  
+
+## 📫 Connect With Me
+- GitHub: https://github.com/anmol-programmer
+- LinkedIn: 
+
+⭐ *“Consistency beats talent.”*
+
+
+
