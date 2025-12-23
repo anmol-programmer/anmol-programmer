@@ -23,7 +23,7 @@
 
 ## 📫 Connect With Me
 - GitHub: https://github.com/anmol-programmer
-- LinkedIn: 
+- LinkedIn: https://www.linkedin.com/in/satyam-anmol-a127a63a1/
 
 ⭐ *“Consistency beats talent.”*
 
