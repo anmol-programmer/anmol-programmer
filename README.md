@@ -35,8 +35,9 @@
 - Learning **New Tech, Tools every day, Kali Linux & Ethical Hacking Techniques**  
 
 ## 🌐 Connect With Me
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github&logoColor=white)](https://github.com/anmol-programmer)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satyam-anmol-a127a63a1/)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anmol-programmer)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satyam-anmol-a127a63a1/)
+
 
 ## ⚡ Fun Fact
 💎 *“Consistency beats talent, learning never stops.”*
