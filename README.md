@@ -1,16 +1,17 @@
 # 👋 Hi, I'm Satyam Anmol
 
-![Status](https://img.shields.io/badge/Status-Active-brightgreen)
-![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-17-blue?logo=c%2B%2B&logoColor=white)
-![Networking](https://img.shields.io/badge/Networking-CCNA-yellow?logo=network-routers&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-2023-darkblue?logo=kalilinux&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-Server-lightblue?logo=MicrosoftSQLServer&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-Design-purple?logo=canva&logoColor=white)
-![MS Office](https://img.shields.io/badge/MS_Office-Productivity-orange?logo=microsoftoffice&logoColor=white)
-![Git](https://img.shields.io/badge/Git-Version_Control-red?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github&logoColor=white)
-![C](https://img.shields.io/badge/C-99-lightgrey?logo=c&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge&logo=awesome)
+![Python](https://img.shields.io/badge/Python-3.11-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![C++](https://img.shields.io/badge/C++-17-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-CCNA-FF6F00?style=for-the-badge&logo=network-routers&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-2023-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Server-007ACC?style=for-the-badge&logo=MicrosoftSQLServer&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-Design-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![MS Office](https://img.shields.io/badge/MS_Office-Productivity-F25022?style=for-the-badge&logo=microsoftoffice&logoColor=white)
+![Git](https://img.shields.io/badge/Git-Version_Control-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)
+![C](https://img.shields.io/badge/C-99-004482?style=for-the-badge&logo=c&logoColor=white)
+
 
 ---
 
